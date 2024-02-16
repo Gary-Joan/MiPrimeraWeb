@@ -1,0 +1,5 @@
+spring:
+  aplication:
+    name: mi-primera-web
+server:
+  port: 15467
